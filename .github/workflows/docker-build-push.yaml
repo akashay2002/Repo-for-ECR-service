@@ -9,7 +9,7 @@ on:
 
 jobs:
   publish_images:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
       # Step 1: Checkout source code
